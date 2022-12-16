@@ -1,4 +1,3 @@
-// class , promise , fetch
 const amount = document.getElementById("amount")
 const firstCurrency = document.getElementById("firstCurrency")
 const secondCurrency = document.getElementById("secondCurrency")
