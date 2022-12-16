@@ -25,8 +25,6 @@ class Exchange {
         .then(response => response.json())
         .then(data => resolve(data))
         .catch(error => reject(error));
-
-
     })
 
   }
