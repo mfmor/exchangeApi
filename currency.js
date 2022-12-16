@@ -29,9 +29,6 @@ class Exchange {
 
     })
 
-
-
-
   }
 
   newAmount(newAmount, newFirstCurrency, newSecondCurrency) {
